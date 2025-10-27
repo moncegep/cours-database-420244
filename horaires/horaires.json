@@ -1,0 +1,503 @@
+[
+  {
+    "nom": "Olivier",
+    "horaires": [
+      {
+        "jour": "Vendredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "libre",
+            "type": "libre",
+            "charge": 1
+          },
+          {
+            "debut": "14:00",
+            "fin": "16:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 6
+          },
+          {
+            "debut": "18:00",
+            "fin": "21:00",
+            "activite": "Pratique de basketball",
+            "type": "sport",
+            "charge": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Markel",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Yanel",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 6
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 8
+          },
+          {
+            "debut": "15:00",
+            "fin": "18:00",
+            "activite": "Cours de philosophie",
+            "type": "cours",
+            "charge": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Elio",
+    "horaires": [
+      {
+        "jour": "Vendredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "12:00",
+            "fin": "15:00",
+            "activite": "Cours d'anglais",
+            "type": "cours",
+            "charge": 2
+          },
+          {
+            "debut": "16:00",
+            "fin": "19:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Talyssa",
+    "horaires": [
+      {
+        "jour": "Mardi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "10:00",
+            "activite": "Cours de musculation",
+            "type": "cours",
+            "charge": 8
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 7
+          }
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "12:00",
+            "fin": "15:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 9
+          },
+          {
+            "debut": "16:30",
+            "fin": "22:00",
+            "activite": "Travail en restauration",
+            "type": "travail",
+            "charge": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Arielle",
+    "horaires": [
+      {
+        "jour": "Mardi",
+        "activites": [
+          {
+            "debut": "16:00",
+            "fin": "17:30",
+            "activite": "Tutorat de français",
+            "type": "tutorat",
+            "charge": 2
+          }
+        ]
+      },
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 8
+          },
+          {
+            "debut": "15:00",
+            "fin": "21:00",
+            "activite": "Travail à Uniqlo",
+            "type": "travail",
+            "charge": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Liliana",
+    "horaires": [
+      {
+        "jour": "Mardi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Interface graphique",
+            "type": "cours",
+            "charge": 3
+          },
+          {
+            "debut": "11:00",
+            "fin": "12:00",
+            "activite": "Pause",
+            "type": "libre",
+            "charge": 1
+          },
+          {
+            "debut": "12:00",
+            "fin": "14:00",
+            "activite": "Philosophie",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "14:00",
+            "fin": "16:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Jaynelle",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 3
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Ricardo",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "11:00",
+            "fin": "12:00",
+            "activite": "Pause",
+            "type": "libre",
+            "charge": 1
+          },
+          {
+            "debut": "12:00",
+            "fin": "14:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 2
+          },
+          {
+            "debut": "14:00",
+            "fin": "16:00",
+            "activite": "Cours de philosophie",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "16:00",
+            "fin": "17:30",
+            "activite": "Rencontre d'équipe",
+            "type": "sport",
+            "charge": 5
+          },
+          {
+            "debut": "18:15",
+            "fin": "20:45",
+            "activite": "Pratique de football",
+            "type": "sport",
+            "charge": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Tiago",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Thomas",
+    "horaires": [
+      {
+        "jour": "Vendredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours d'anglais",
+            "type": "cours",
+            "charge": 6
+          },
+          {
+            "debut": "18:00",
+            "fin": "20:00",
+            "activite": "Soirée jeunesse à l'église",
+            "type": "para",
+            "charge": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Sara",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Mathuna",
+    "horaires": [
+      {
+        "jour": "Samedi",
+        "activites": [
+          {
+            "debut": "07:00",
+            "fin": "16:00",
+            "activite": "Travail au Walmart",
+            "type": "travail",
+            "charge": 7
+          }
+        ]
+      },
+      {
+        "jour": "Dimanche",
+        "activites": [
+          {
+            "debut": "07:00",
+            "fin": "16:00",
+            "activite": "Travail au Walmart",
+            "type": "travail",
+            "charge": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Justin",
+    "horaires": [
+      {
+        "jour": "Mercredi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Cours de base de données",
+            "type": "cours",
+            "charge": 5
+          },
+          {
+            "debut": "12:00",
+            "fin": "14:00",
+            "activite": "Cours de français",
+            "type": "cours",
+            "charge": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nom": "Ilyes",
+    "horaires": [
+      {
+        "jour": "Mardi",
+        "activites": [
+          {
+            "debut": "08:00",
+            "fin": "11:00",
+            "activite": "Interface graphique",
+            "type": "cours",
+            "charge": 4
+          },
+          {
+            "debut": "11:00",
+            "fin": "14:00",
+            "activite": "Cours de programmation",
+            "type": "cours",
+            "charge": 6
+          },
+          {
+            "debut": "14:00",
+            "fin": "15:00",
+            "activite": "Pause",
+            "type": "libre",
+            "charge": 1
+          },
+          {
+            "debut": "15:00",
+            "fin": "18:00",
+            "activite": "Cours de bureautique",
+            "type": "cours",
+            "charge": 7
+          }
+        ]
+      }
+    ]
+  }
+]
